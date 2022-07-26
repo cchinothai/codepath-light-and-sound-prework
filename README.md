@@ -4,8 +4,6 @@
 
 Submitted by: Cody Chinothai
 
-Time spent: 4.5 hours spent in total
-
 Link to project: (https://glitch.com/edit/#!/deserted-nasal-crowd)
 
 ## Required Functionality
